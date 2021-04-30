@@ -19,7 +19,7 @@ bio: PhD Student interested in sample efficient reinforcement learning.
 # Interests to show in About widget
 interests:
 - Reinforcement Learning
-- Meta Learning
+- Meta-Learning
 - Deep learning generalisation
 
 # Education to show in About widget
