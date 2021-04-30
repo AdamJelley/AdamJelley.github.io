@@ -5,7 +5,7 @@
 
 title: Adam Jelley # Website name
 baseurl: '' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Adam Jelley' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
