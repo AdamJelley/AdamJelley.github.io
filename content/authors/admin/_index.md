@@ -11,7 +11,7 @@ role: PhD Student in Deep Reinforcement Learning
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Edinburgh
-  url: https://www.ed.ac.uk/
+  url: https://www.ed.ac.uk/informatics
 
 # Short bio (displayed in user profile at end of posts)
 bio: PhD Student interested in sample efficient reinforcement learning.
@@ -70,8 +70,8 @@ email: ""
 highlight_name: true
 ---
 
-I’m a PhD student in the Bayesian and Neural Systems group at the University of Edinburgh, supervised by Professor Amos Storkey in the School of Informatics and Dr Katja Hoffman at Microsoft Research Cambridge.
+I’m a PhD student in the [Bayesian and Neural Systems group](https://www.bayeswatch.com/) at the University of Edinburgh, supervised by [Professor Amos Storkey](https://homepages.inf.ed.ac.uk/amos/) in the [School of Informatics](https://www.ed.ac.uk/informatics) and [Dr Katja Hofmann](https://www.microsoft.com/en-us/research/people/kahofman/) at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/).
 
-My research is focused on developing more sample efficient deep reinforcement learning algorithms to improve the performance of systems making automated decisions.
+My research is focused on developing more sample efficient deep reinforcement learning algorithms to improve the performance of systems making automated decisions, supported by a [Microsoft Research Scholarship](https://www.microsoft.com/en-us/research/academic-program/phd-scholarship-europe-middle-east-africa/).
 
-{{< icon name="download" pack="fas" >}} See my full CV {{< staticref "media/demo_resume.pdf" "newtab" >}}here{{< /staticref >}}.
+ <!-- {{< icon name="download" pack="fas" >}} See my full CV {{< staticref "media/demo_resume.pdf" "newtab" >}}here{{< /staticref >}}. -->

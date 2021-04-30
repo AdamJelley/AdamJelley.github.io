@@ -30,7 +30,7 @@ experience:
     date_start: '2019-04-01'
     date_end: '2021-04-01'
     description: |2-
-        Delivered a range of client-facing and internal data science projects and coaching as a consultant. Promoted to lead UK and Northern Europe region's data science team of 4-6 data scientists from July 2020.
+        Delivered and coached a range of client-facing and internal data science projects as a consultant. Promoted to lead UK and Northern Europe region's data science team of 4-6 data scientists from July 2020.
         
   - title: Business Consultant
     company: Applied Predictive Technologies (now aquired by Mastercard)
