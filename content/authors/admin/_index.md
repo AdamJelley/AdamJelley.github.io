@@ -19,8 +19,8 @@ bio: PhD Student interested in sample efficient reinforcement learning.
 # Interests to show in About widget
 interests:
 - Reinforcement Learning
-- Meta-Learning
-- Deep learning generalisation
+- Contrastive Learning
+- Representational Generalisation
 
 # Education to show in About widget
 education:
@@ -57,7 +57,7 @@ social:
   link: https://www.linkedin.com/adamjelley
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
@@ -72,6 +72,6 @@ highlight_name: true
 
 I’m a PhD student in the [Bayesian and Neural Systems group](https://www.bayeswatch.com/) at the University of Edinburgh, supervised by [Professor Amos Storkey](https://homepages.inf.ed.ac.uk/amos/) in the [School of Informatics](https://www.ed.ac.uk/informatics).
 
-My research is focused on developing more sample efficient deep reinforcement learning algorithms to improve the performance of systems making automated decisions, supported by a [Microsoft Research Scholarship](https://www.microsoft.com/en-us/research/academic-program/phd-scholarship-europe-middle-east-africa/).
+My research is focused on developing more sample efficient deep reinforcement learning approaches via the application of recent self-supervised techniques, particularly contrastive learning, to learn a suitable representation for control. I'm supported by a [Microsoft Research Scholarship](https://www.microsoft.com/en-us/research/academic-program/phd-scholarship-europe-middle-east-africa/).
 
  <!-- {{< icon name="download" pack="fas" >}} See my full CV {{< staticref "media/demo_resume.pdf" "newtab" >}}here{{< /staticref >}}. -->
