@@ -22,16 +22,42 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: (Lead) Data Scientist
+  - title: PhD Candidate
+    company: University of Edinburgh
+    company_url: 'https://www.ed.ac.uk/informatics'
+    company_logo: EdinburghLogo
+    location: Edinburgh
+    date_start: '2021-05-01'
+    date_end:
+    description: |2-
+        PhD Candidate in Machine Learning, with a focus on Deep Reinforcement Learning.
+  - title: Lead Data Scientist
+    company: Dataiku
+    company_url: 'https://www.dataiku.com/'
+    company_logo: dataikulogobird
+    location: London
+    date_start: '2020-07-01'
+    date_end: '2021-04-01'
+    description: |2-
+        Led the UK and Northern Europe region's data science team of 6 data scientists to deliver data science projects and coaching.
+  - title: Data Scientist
     company: Dataiku
     company_url: 'https://www.dataiku.com/'
     company_logo: dataikulogobird
     location: London
     date_start: '2019-04-01'
-    date_end: '2021-04-01'
+    date_end: '2020-07-01'
     description: |2-
-        Delivered and coached a range of client-facing and internal data science projects as a consultant. Promoted to lead UK and Northern Europe region's data science team of 4-6 data scientists from July 2020.
-        
+        Delivered client-facing and internal data science projects and coaching.
+  - title: Research Student
+    company: UCL
+    company_url: 'https://www.ucl.ac.uk/data-intensive-science-cdt/'
+    company_logo: UCLLogo
+    location: London
+    date_start: '2018-09-01'
+    date_end: '2019-03-01'
+    description: |2-
+        Initial research training at Centre for Doctoral Training in Data Intensive Science.
   - title: Business Consultant
     company: Applied Predictive Technologies (now aquired by Mastercard)
     company_url: 'https://www.mastercard.com.au/en-au/about-mastercard/innovations/apt.html'
@@ -40,6 +66,15 @@ experience:
     date_start: '2016-08-01'
     date_end: '2017-10-01'
     description: Analysed and modelled trials of new initiatives to predict their wider impact. Presented recommendations back to clients to inform decisions.
+  - title: Undergraduate Student
+    company: University of Cambridge
+    company_url: 'https://www.phy.cam.ac.uk/students/teaching/current-courses/III_overview'
+    company_logo: CambridgeLogo
+    location: Cambridge
+    date_start: '2012-10-01'
+    date_end: '2016-06-01'
+    description: |2-
+        Part III Theoretical Physics MSci and Natural Sciences Tripos Undergraduate Student.
 
 design:
   columns: '2'

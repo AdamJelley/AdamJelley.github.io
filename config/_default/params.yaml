@@ -22,7 +22,7 @@ twitter: ''
 
 email: adam.jelley@ed.ac.uk
 #phone: +44131 651 5661
-address: 
+address:
   street: School of Informatics
   city: Edinburgh
   #region: CA
@@ -134,14 +134,14 @@ comments:
   commento:
     url: ''
 search:
-  provider: 
+  provider:
   algolia:
     app_id: ''
     api_key: ''
     index_name: ''
     show_logo: false
 map:
-  provider: ''
+  provider: '2'
   api_key: ''
   zoom: 15
 marketing:

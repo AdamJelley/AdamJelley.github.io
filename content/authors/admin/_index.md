@@ -14,18 +14,18 @@ organizations:
   url: https://www.ed.ac.uk/informatics
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD Student interested in sample efficient reinforcement learning.
+bio: PhD Student in efficient reinforcement learning.
 
 # Interests to show in About widget
 interests:
 - Reinforcement Learning
-- Contrastive Learning
-- Representational Generalisation
+- Self-Supervised Learning
+- Deep Learning Generalisation
 
 # Education to show in About widget
 education:
   courses:
-  - course: Currently Studying PhD in Sample Efficient Deep Reinforcement Learning
+  - course: Currently PhD Candidate in Sample Efficient Deep Reinforcement Learning
     institution: University of Edinburgh
     year: 2025 (Expected)
   - course: MSci in Theoretical Physics
@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:adam.jelley@ed.ac.uk'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -70,8 +70,8 @@ email: ""
 highlight_name: true
 ---
 
-I’m a PhD student in the [Bayesian and Neural Systems group](https://www.bayeswatch.com/) at the University of Edinburgh, supervised by [Professor Amos Storkey](https://homepages.inf.ed.ac.uk/amos/) in the [School of Informatics](https://www.ed.ac.uk/informatics).
+I’m a PhD student in the [Bayesian and Neural Systems group](https://www.bayeswatch.com/) at the University of Edinburgh, supervised by [Professor Amos Storkey](https://homepages.inf.ed.ac.uk/amos/) in the [School of Informatics](https://www.ed.ac.uk/informatics) and externally by [Sam Devlin](https://www.microsoft.com/en-us/research/people/sadevlin/) at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/).
 
-My research is focused on developing more sample efficient deep reinforcement learning approaches via the application of recent self-supervised techniques, particularly contrastive learning, to learn a suitable representation for control. I'm supported by a [Microsoft Research Scholarship](https://www.microsoft.com/en-us/research/academic-program/phd-scholarship-europe-middle-east-africa/).
+My research is broadly focused on developing more sample efficient reinforcement learning approaches, via the application of self-supervised approaches and by utilising offline data. I'm generally interested in improving the scientific understanding of deep reinforcement learning, bridging the gap between academia and industry, and the application of reinforcement learning to beneficial real-world problems and production software. I'm supported by a [Microsoft Research Scholarship](https://www.microsoft.com/en-us/research/academic-program/phd-scholarship-europe-middle-east-africa/).
 
  <!-- {{< icon name="download" pack="fas" >}} See my full CV {{< staticref "media/demo_resume.pdf" "newtab" >}}here{{< /staticref >}}. -->
