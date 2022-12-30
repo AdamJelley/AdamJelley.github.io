@@ -1,15 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Adam Jelley</title><link>https://adamjelley.github.io/</link><atom:link href="https://adamjelley.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Adam Jelley</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Adam Jelley</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate><image><url>https://adamjelley.github.io/media/icon_hudb77e0d6599affbdab246cf9ea514ec9_35945_512x512_fill_lanczos_center_2.png</url><title>Adam Jelley</title><link>https://adamjelley.github.io/</link></image><item><title>Example Talk</title><link>https://adamjelley.github.io/talk/example-talk/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>https://adamjelley.github.io/talk/example-talk/</guid><description>&lt;div class="alert alert-note">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Adam Jelley</title><link>https://adamjelley.github.io/</link><atom:link href="https://adamjelley.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Adam Jelley</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Adam Jelley</copyright><lastBuildDate>Wed, 28 Sep 2022 00:00:00 +0000</lastBuildDate><image><url>https://adamjelley.github.io/media/icon_hudb77e0d6599affbdab246cf9ea514ec9_35945_512x512_fill_lanczos_center_3.png</url><title>Adam Jelley</title><link>https://adamjelley.github.io/</link></image><item><title>Contrastive Meta-Learning for Partially Observable Few-Shot Learning</title><link>https://adamjelley.github.io/publication/poem/</link><pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate><guid>https://adamjelley.github.io/publication/poem/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
 &lt;div>
-Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 &lt;/div>
 &lt;/div>
-&lt;p>Slides can be added in a few ways:&lt;/p>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Deep Ocean Learning of Small Scale Turbulence</title><link>https://adamjelley.github.io/publication/deepoceanlearning/</link><pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate><guid>https://adamjelley.github.io/publication/deepoceanlearning/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Reinforcement Learning to Play Doom</title><link>https://adamjelley.github.io/project/doomrl/</link><pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate><guid>https://adamjelley.github.io/project/doomrl/</guid><description>&lt;p>A project to apply reinforcement learning to play Doom. Uses &lt;a href="https://stable-baselines3.readthedocs.io/en/master/index.html" target="_blank" rel="noopener">StableBaselines3&lt;/a> implementations of RL algorithms on &lt;a href="http://vizdoom.cs.put.edu.pl/" target="_blank" rel="noopener">ViZDoom&lt;/a> using the &lt;a href="https://github.com/shakenes/vizdoomgym" target="_blank" rel="noopener">ViZDoomGym&lt;/a> wrapper. Key takeaway: reward shaping is key!&lt;/p></description></item><item><title>Reinforcement Learning Reimplementations</title><link>https://adamjelley.github.io/project/rlimplementations/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://adamjelley.github.io/project/rlimplementations/</guid><description>&lt;p>Reimplementations of various reinforcement learning algorithms:&lt;/p>
 &lt;ul>
-&lt;li>&lt;strong>Create&lt;/strong> slides using Wowchemy&amp;rsquo;s &lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">&lt;em>Slides&lt;/em>&lt;/a> feature and link using &lt;code>slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
-&lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
-&lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
-&lt;/ul>
-&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Welcome to Wowchemy, the website builder for Hugo</title><link>https://adamjelley.github.io/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>https://adamjelley.github.io/post/getting-started/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;li>&lt;a href="https://github.com/AdamJelley/Actor-Critic-Agents" target="_blank" rel="noopener">Actor-crtic&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/AdamJelley/Deep-Q-Learning-Agents" target="_blank" rel="noopener">Value-based&lt;/a> (Q-learning)&lt;/li>
+&lt;li>&lt;a href="https://github.com/AdamJelley/Curiosity-A3C-Agent" target="_blank" rel="noopener">Unsupervised&lt;/a> (reward-free i.e. curiosity)&lt;/li>
+&lt;/ul></description></item><item><title>Welcome to Wowchemy, the website builder for Hugo</title><link>https://adamjelley.github.io/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>https://adamjelley.github.io/post/getting-started/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
 &lt;ol>
 &lt;li>The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li>
 &lt;li>The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong>no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong> and having &lt;strong>flexibility to later add even deeper personalization with HTML and CSS&lt;/strong>&lt;/li>
@@ -63,7 +79,108 @@ The template is mobile first with a responsive design to ensure that your site l
 &lt;p>&lt;a href="https://wowchemy.com/docs/customization" target="_blank" rel="noopener">Choose a stunning &lt;strong>theme&lt;/strong> and &lt;strong>font&lt;/strong>&lt;/a> for your site. Themes are fully customizable.&lt;/p>
 &lt;h2 id="license">License&lt;/h2>
 &lt;p>Copyright 2016-present &lt;a href="https://georgecushen.com" target="_blank" rel="noopener">George Cushen&lt;/a>.&lt;/p>
-&lt;p>Released under the &lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md" target="_blank" rel="noopener">MIT&lt;/a> license.&lt;/p></description></item><item><title>Slides</title><link>https://adamjelley.github.io/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://adamjelley.github.io/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
+&lt;p>Released under the &lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md" target="_blank" rel="noopener">MIT&lt;/a> license.&lt;/p></description></item><item><title>Automated PDF Processor</title><link>https://adamjelley.github.io/project/pdfprocessor/</link><pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate><guid>https://adamjelley.github.io/project/pdfprocessor/</guid><description>&lt;h1 id="overview">Overview&lt;/h1>
+&lt;p>This project takes PDF files as input, uses Optical Character Recognition (OCR) to extract the text for each input PDF, classifies the document into one of twenty article categories and summarises the text to an arbitrary number of sententences (by default 3 using Latent Semantic Analysis (LSA)), before composing the document title, classification, summary and original text into a text file which is emailed to the user.&lt;/p>
+&lt;h1 id="interface-usage-dashboard">Interface Usage (Dashboard)&lt;/h1>
+&lt;p>The &lt;a href="dashboard:moj9XTy">dashboard&lt;/a> shows a view of the input PDFs and output files. Documents can be uploaded by dragging and dropping onto the left hand side of the dashboard. The &lt;a href="scenario:ProcessDocument">scenario&lt;/a> to process the input PDFs can be triggered from here, and the text file contatining the classification, summary and full text will appear in the folder on the right hand side. Please see below for further information.&lt;/p>
+&lt;h1 id="data">Data&lt;/h1>
+&lt;p>Arbitrary PDF files can be placed into the &lt;a href="managed_folder:QZb3pfTL">input folder&lt;/a> for classfication and summarisation.&lt;/p>
+&lt;p>The document classification model was trained on the 20 newsgroups dataset (&lt;a href="http://qwone.com/~jason/20Newsgroups/" target="_blank" rel="noopener">documentation&lt;/a>) which is publicly available from sci-kit learn as described &lt;a href="https://scikit-learn.org/0.19/datasets/twenty_newsgroups.html#" target="_blank" rel="noopener">here&lt;/a>.&lt;/p>
+&lt;h1 id="project-components">Project Components&lt;/h1>
+&lt;h2 id="ocr-for-text-extraction">OCR for Text Extraction&lt;/h2>
+&lt;p>The PDFs are first converted to image files using pdf2image (&lt;a href="https://pypi.org/project/pdf2image/" target="_blank" rel="noopener">documentation&lt;/a>) &lt;a href="recipe:compute_HNEvJqgm">here&lt;/a>. The OCR is then performed using Google&amp;rsquo;s open-source Tesseract library (&lt;a href="https://github.com/tesseract-ocr/tesseract#tesseract-ocr" target="_blank" rel="noopener">documentation&lt;/a>) &lt;a href="recipe:compute_htEULTjD">here&lt;/a>.&lt;/p>
+&lt;h2 id="model-for-document-classification">Model for Document Classification&lt;/h2>
+&lt;p>As described above, the model was trained on the 20 newsgroups dataset available from sci-kit learn &lt;a href="https://scikit-learn.org/0.19/datasets/twenty_newsgroups.html#" target="_blank" rel="noopener">here&lt;/a>. The model uses a multiclass logistic regression classifier built on top of a tf-idf transformer and achieves an AUC of 0.995. Full details of the model are available &lt;a href="saved_model:y1EXaY1m">here&lt;/a>.&lt;/p>
+&lt;h2 id="text-summarisation">Text Summarisation&lt;/h2>
+&lt;p>The text summarisation was performed using Dataiku&amp;rsquo;s Text Summarisation &lt;a href="recipe:compute_PDF_topics">plugin&lt;/a> (&lt;a href="https://www.dataiku.com/product/plugins/text-summarization/" target="_blank" rel="noopener">documentation&lt;/a>). This plugin provides an interface for three popular text summarisation algorithms including &lt;a href="https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf" target="_blank" rel="noopener">TextRank&lt;/a>, &lt;a href="http://www.aclweb.org/anthology/N09-1041" target="_blank" rel="noopener">KL-Sum&lt;/a> and &lt;a href="http://www.kiv.zcu.cz/~jstein/publikace/isim2004.pdf" target="_blank" rel="noopener">LSA&lt;/a>. By default this project uses LSA to select 3 sentences to summarise the document, but this can be changed using the &lt;a href="recipe:compute_PDF_topics">plugin&lt;/a> UI.&lt;/p>
+&lt;h1 id="flow">Flow&lt;/h1>
+&lt;p>The top part of the flow converts the &lt;a href="recipe:compute_HNEvJqgm">PDFs to images&lt;/a>, &lt;a href="recipe:compute_htEULTjD">extracts the text&lt;/a> using OCR and &lt;a href="recipe:compute_PDF_topics">summarises&lt;/a> the document.&lt;/p>
+&lt;p>The bottom part of the flow gets the &lt;a href="dataset:twenty_newsgroups">documents&lt;/a> and &lt;a href="dataset:target_names_prepared">labels&lt;/a>, &lt;a href="recipe:compute_twenty_newsgroups_joined">joins&lt;/a> them together to create the &lt;a href="dataset:twenty_newsgroups_joined">training data&lt;/a>, trains the &lt;a href="saved_model:y1EXaY1m">model&lt;/a> on this training data and uses the model to &lt;a href="dataset:PDF_text_labelled">classify&lt;/a> the document.&lt;/p>
+&lt;p>The document summary is then &lt;a href="recipe:compute_PDF_topics_category">joined&lt;/a> to the document classification, which are cleaned up and written to &lt;a href="managed_folder:htEULTjD">output files&lt;/a> for each document.&lt;/p>
+&lt;h1 id="running-the-flow--automation">Running the Flow / Automation&lt;/h1>
+&lt;p>The flow can be run using the scenario &lt;a href="scenario:ProcessDocument">ProcessDocument&lt;/a>. This scenario will extract the text from all input PDFs, classify and summarise the document, create the output file and email this to the user. By default, text extraction will not be re-performed if the PDF has been processed previously (so previously processed PDFs will not be cleared even if they are removed from the input), but this behaviour can be modified by changing the project variable &amp;lsquo;reprocess_PDFs&amp;rsquo; to &amp;lsquo;True&amp;rsquo; in the first step of the scenario.&lt;/p>
+&lt;p>Alternatively, when a new PDF is dropped into the &lt;a href="managed_folder:QZb3pfTL">input folder&lt;/a>, DSS will automatically recognise that the input has changed, run the flow and email the user the end result. DSS is currently set to check the input folder every 2 minutes and will run the flow it detects that the input has changed and there have been no further changes made over the following minute.&lt;/p></description></item><item><title>SORT IT - Build a PDF Processor</title><link>https://adamjelley.github.io/talk/sort-it-build-a-pdf-processor/</link><pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate><guid>https://adamjelley.github.io/talk/sort-it-build-a-pdf-processor/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
+Slides can be added in a few ways:
+- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --></description></item><item><title>Football Match Prediction</title><link>https://adamjelley.github.io/project/footballprediction/</link><pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate><guid>https://adamjelley.github.io/project/footballprediction/</guid><description>&lt;h1 id="overview">Overview&lt;/h1>
+&lt;p>The aim of this project was to predict the outcome of football matches. Currently, the project is predicting all Premier League and Championship games.&lt;/p>
+&lt;h1 id="data">Data&lt;/h1>
+&lt;p>The data all comes from &lt;a href="https://www.api-football.com/" target="_blank" rel="noopener">api-football&lt;/a>, for which the various data feeds are well documented &lt;a href="https://www.api-football.com/documentation#documentation-v239-api-architecture" target="_blank" rel="noopener">here&lt;/a>.&lt;/p>
+&lt;p>In the current version, we used the match fixtures API to get historical match results for the Premier League and Championship for the last 10 years, as well as to get the upcoming fixtures for the next week.&lt;/p>
+&lt;h1 id="flow">Flow&lt;/h1>
+&lt;p>The first python recipe (&lt;a href="recipe:compute_Leagues">compute_Leagues&lt;/a>) is used to get the available leagues and their corresponding IDs from the API. This data is cleaned and filtered down to the leagues of interest to give the &lt;a href="dataset:Leagues_prepared_filtered">Leagues_prepared_filtered&lt;/a> dataset.&lt;/p>
+&lt;p>These league IDs are then used to get all the corresponding &lt;a href="dataset:Fixtures_prepared">historical fixtures&lt;/a> (from beginning of 2010 season to yesterday inclusive), as well as the &lt;a href="dataset:Upcoming_Fixtures_prepared">upcoming fixtures&lt;/a> (from today for the next week inclusive), from the API.&lt;/p>
+&lt;p>We then use a custom developed &lt;a href="recipe:compute_Team_Elo_Ranks">plugin&lt;/a> to compute the Elo ratings (wikipedia: &lt;a href="https://en.wikipedia.org/wiki/Elo_rating_system" target="_blank" rel="noopener">Elo Ratings&lt;/a>) for each team over the fixture history. Elo ratings originate from chess but also provide an accurate way of ranking football teams over time. We extract the most recent Elo ratings for each team from the history using &lt;a href="recipe:compute_Latest_Team_Elo_Ranks">SQL&lt;/a> which can be &lt;a href="recipe:compute_Upcoming_Fixtures_EloFeatures">joined&lt;/a> to the upcoming fixtures.&lt;/p>
+&lt;p>We trained a simple &lt;a href="saved_model:STX882mM">logistic regression &lt;/a> algorithm on these ranks from the fixtures history to predict the outcome of the game. This model is then used to score the &lt;a href="dataset:Upcoming_Fixtures_prepared">upcoming fixtures&lt;/a> to get the model &lt;a href="dataset:Upcoming_Fixtures_EloFeatures_scored">predictions&lt;/a> for the next week of fixtures. We also evaluate the model on the historical fixtures so we can trace the accuracay of &lt;a href="dataset:Historical_Fixtures_Evaluated">historical predictions&lt;/a> as well.&lt;/p>
+&lt;h1 id="automation">Automation&lt;/h1>
+&lt;p>There are currently 5 scenarios: 4 of which are run daily in sequence starting at 0200 UTC, one of which is run weekly on a Sunday at 0400 UTC (in addition to one just to re-build the entire flow from scratch) which are used to automate the project:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Compute Latest Ranks (Daily, 0200 UTC)&lt;/strong>
+This updates the historical fixtures table with the latest results, recalculates the Elo ranks for the entire history and then extracts the most recent Elo rank for each team.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Get Upcoming Fixtures (Daily, after Compute Latest Ranks completes)&lt;/strong>
+This gets the upcoming fixtures for the next week including the current day.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Predict Historical Fixtures (Daily, after Get Upcoming Fixtures completes)&lt;/strong>
+This uses the model to evaluate all historical fixtures (get predictions and compare them against the result to see if they were true or false).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Predict Upcoming Fixtures (Daily, after Predict Historical Fixtures completes)&lt;/strong>
+This uses the model to predict all upcoming fixtures.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Retrain Model (Weekly, Sunday 0400 UTC)&lt;/strong>
+This retrains the model with the complete history of fixtures (including the latest week of fixture results).&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h1 id="webapp">Webapp&lt;/h1>
+&lt;p class="text-center">
+&lt;a href="https://dsproj1.dataiku.com/public-webapps/football-predictions">Web Application&lt;/a>
+&lt;/p>
+&lt;p>The predictions for the upcoming fixtures and also for the historical fixtures are served via a basic Flask &lt;a href="web_app:JidtqGs">webapp&lt;/a>. The webapp provides an interface with buttons to get either the upcoming or historical fixtures. These buttons use JS to access a python backend to get the requested data.&lt;/p>
+&lt;h1 id="dashboard">Dashboard&lt;/h1>
+&lt;p>The predictions are also served via a &lt;a href="dashboard:Hsi5bIw">dashboard&lt;/a>. The dashboard has three slides:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>The first slide shows the current team rankings, the upcoming fixture predictions and the historical fixture predictions.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>The second slide shows an overview of the model, including training information, model performance metrics, the confusion matrix and the prediction density distributions.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>The third slide contains the web application described above.&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Machine Learning in Real Time - Predicting Taxi Fares in NYC</title><link>https://adamjelley.github.io/talk/machine-learning-in-real-time-predicting-taxi-fares-in-nyc/</link><pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate><guid>https://adamjelley.github.io/talk/machine-learning-in-real-time-predicting-taxi-fares-in-nyc/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
+Slides can be added in a few ways:
+- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --></description></item><item><title>Improving Recommender Systems with Deep Learning</title><link>https://adamjelley.github.io/talk/improving-recommender-systems-with-deep-learning/</link><pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate><guid>https://adamjelley.github.io/talk/improving-recommender-systems-with-deep-learning/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
+Slides can be added in a few ways:
+- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --></description></item><item><title>Slides</title><link>https://adamjelley.github.io/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://adamjelley.github.io/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
 &lt;p>&lt;a href="https://wowchemy.com/" target="_blank" rel="noopener">Wowchemy&lt;/a> | &lt;a href="https://owchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p>
 &lt;hr>
 &lt;h2 id="features">Features&lt;/h2>
@@ -109,7 +226,7 @@ $$&lt;/p>
 {{% fragment %}} Three {{% /fragment %}}
 &lt;/code>&lt;/pre>
 &lt;p>Press &lt;code>Space&lt;/code> to play!&lt;/p>
-&lt;p>&lt;span class="fragment " >
+&lt;span class="fragment " >
 One
 &lt;/span>
 &lt;span class="fragment " >
@@ -117,7 +234,7 @@ One
 &lt;/span>
 &lt;span class="fragment " >
 Three
-&lt;/span>&lt;/p>
+&lt;/span>
 &lt;hr>
 &lt;p>A fragment can accept two optional parameters:&lt;/p>
 &lt;ul>
@@ -178,18 +295,4 @@ color: navy;
 &lt;hr>
 &lt;h1 id="questions">Questions?&lt;/h1>
 &lt;p>&lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/discussions" target="_blank" rel="noopener">Ask&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>Example Project</title><link>https://adamjelley.github.io/project/example/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://adamjelley.github.io/project/example/</guid><description>&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
-&lt;p>Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p>
-&lt;p>Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p>
-&lt;p>Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p>
-&lt;p>Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p></description></item><item><title>An example conference paper</title><link>https://adamjelley.github.io/publication/example/</link><pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate><guid>https://adamjelley.github.io/publication/example/</guid><description>&lt;div class="alert alert-note">
-&lt;div>
-Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-&lt;/div>
-&lt;/div>
-&lt;div class="alert alert-note">
-&lt;div>
-Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
-&lt;/div>
-&lt;/div>
-&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title/><link>https://adamjelley.github.io/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://adamjelley.github.io/admin/config.yml</guid><description/></item></channel></rss>
+&lt;p>&lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>Invisibility and Maxwell's Equations</title><link>https://adamjelley.github.io/project/invisibility/</link><pubDate>Tue, 03 May 2016 00:00:00 +0000</pubDate><guid>https://adamjelley.github.io/project/invisibility/</guid><description>&lt;p>We investigate the origin of the form invariance of Maxwell’s Equations and see how this relates to the theory of transformation optics, in which a particular geometry is related to the equivalent electromagnetic properties required in Euclidian space to create the geometry. This idea is used to reformulate transformation optics in the more natural language of differential geometry and to derive the electromagnetic properties associated with arbitrary transformations using these techniques. The theory of transformation optics is then generalised to non-linear electromagnetic media and to a spacetime formulation.&lt;/p></description></item><item><title/><link>https://adamjelley.github.io/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://adamjelley.github.io/admin/config.yml</guid><description/></item></channel></rss>
