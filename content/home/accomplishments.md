@@ -29,7 +29,7 @@ item:
 - #certificate_url: uploads/IronmanCertificate.pdf
   date_end: ""
   date_start: "2022-10-15"
-  description: "Completed [Ironman Portugal](https://www.ironman.com/im-cascais) 2022"
+  description: "Completed [Ironman Portugal](https://www.ironman.com/im-cascais-results?mkt_tok=MTI0LVFWRy03MzgAAAGHjzJ7J8ZUVh6GEIyJJGVfrhc1UjDF_oMCfTBQtjou2xkthwWCKitqNZtkxtAT3e_wd0I-d8t5rEEzheGkR1e8bHwDyNX78XlGJFMZ2YvPA27mSlst) 2022"
   organization: Ironman
   organization_url: https://www.ironman.com/im-cascais-results?mkt_tok=MTI0LVFWRy03MzgAAAGHjzJ7J8ZUVh6GEIyJJGVfrhc1UjDF_oMCfTBQtjou2xkthwWCKitqNZtkxtAT3e_wd0I-d8t5rEEzheGkR1e8bHwDyNX78XlGJFMZ2YvPA27mSlst
   title: Ironman
