@@ -16,7 +16,7 @@ authors:
 # - "Equal contribution"
 
 date: "2022-09-28T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.48550/arXiv.2301.13136"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -46,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://openreview.net/pdf?id=6iVJOtr2zL2'
+url_pdf: 'https://arxiv.org/abs/2301.13136'
 url_code: 'https://github.com/AdamJelley/POEM'
 url_dataset: ''
 url_poster: ''
