@@ -31,6 +31,15 @@ experience:
     date_end:
     description: |2-
         PhD Candidate in Machine Learning, with a focus on Deep Reinforcement Learning.
+  - title: Research Scientist Intern
+    company: Microsoft Research Cambridge
+    company_url: 'https://www.microsoft.com/en-us/research/group/game-intelligence/overview/'
+    company_logo: MicrosoftLogo
+    location: Cambridge
+    date_start: '2023-06-01'
+    date_end: '2023-09-01'
+    description: |2-
+        Developed a pipeline for aligning agents with preferences on the Xbox game Bleeding Edge, for research into capabilities and limitations of Reinforcement Learning from Human Feedback (RLHF) in this domain.
   - title: Lead Data Scientist
     company: Dataiku
     company_url: 'https://www.dataiku.com/'
