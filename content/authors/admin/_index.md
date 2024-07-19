@@ -19,7 +19,7 @@ bio: PhD Student in efficient reinforcement learning.
 # Interests to show in About widget
 interests:
 - Reinforcement Learning
-- Offline Reinforcement Learning
+- World Models
 - RL from Human Feedback
 - Self-Supervised Learning
 - Deep Learning Generalisation
@@ -49,9 +49,9 @@ social:
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
-# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-#   icon_pack: fas
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
+  link: https://scholar.google.com/citations?user=39t3yJcAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/AdamJelley
@@ -75,6 +75,6 @@ highlight_name: true
 
 I’m a PhD student in the [Bayesian and Neural Systems group](https://www.bayeswatch.com/) at the University of Edinburgh, supervised by [Professor Amos Storkey](https://homepages.inf.ed.ac.uk/amos/) in the [School of Informatics](https://www.ed.ac.uk/informatics) and externally by [Sam Devlin](https://www.microsoft.com/en-us/research/people/sadevlin/) at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/).
 
-My research is broadly focused on developing more sample efficient reinforcement learning approaches, via the use of self-supervised signals, offline data and human feedback. I'm generally interested in improving the scientific understanding of deep reinforcement learning, bridging the gap between academia and industry, and the application of reinforcement learning to beneficial real-world problems and production software. I'm supported by a [Microsoft Research Scholarship](https://www.microsoft.com/en-us/research/academic-program/phd-scholarship-europe-middle-east-africa/).
+My research is broadly focused on developing more sample efficient reinforcement learning approaches, via the use of self-supervised signals, offline data, world models and human feedback. I'm generally interested in improving the scientific understanding of deep reinforcement learning, bridging the gap between academia and industry, and the application of reinforcement learning to science and meaningful real-world problems. I'm supported by a [Microsoft Research Scholarship](https://www.microsoft.com/en-us/research/academic-program/phd-scholarship-europe-middle-east-africa/).
 
  <!-- {{< icon name="download" pack="fas" >}} See my full CV {{< staticref "media/demo_resume.pdf" "newtab" >}}here{{< /staticref >}}. -->
