@@ -1,32 +1,96 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | Adam Jelley</title><link>https://adamjelley.github.io/project/</link><atom:link href="https://adamjelley.github.io/project/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Adam Jelley</copyright><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate><image><url>https://adamjelley.github.io/media/icon_hudb77e0d6599affbdab246cf9ea514ec9_35945_512x512_fill_lanczos_center_3.png</url><title>Projects</title><link>https://adamjelley.github.io/project/</link></image><item><title>Reinforcement Learning to Play Doom</title><link>https://adamjelley.github.io/project/doomrl/</link><pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate><guid>https://adamjelley.github.io/project/doomrl/</guid><description>&lt;p>A project to apply reinforcement learning to play Doom. Uses &lt;a href="https://stable-baselines3.readthedocs.io/en/master/index.html" target="_blank" rel="noopener">StableBaselines3&lt;/a> implementations of RL algorithms on &lt;a href="http://vizdoom.cs.put.edu.pl/" target="_blank" rel="noopener">ViZDoom&lt;/a> using the &lt;a href="https://github.com/shakenes/vizdoomgym" target="_blank" rel="noopener">ViZDoomGym&lt;/a> wrapper. Key takeaway: reward shaping is key!&lt;/p></description></item><item><title>Reinforcement Learning Reimplementations</title><link>https://adamjelley.github.io/project/rlimplementations/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://adamjelley.github.io/project/rlimplementations/</guid><description>&lt;p>Reimplementations of various reinforcement learning algorithms:&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | Adam Jelley</title><link>https://adamjelley.github.io/project/</link><atom:link href="https://adamjelley.github.io/project/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Adam Jelley</copyright><lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate><image><url>https://adamjelley.github.io/media/icon_hudb77e0d6599affbdab246cf9ea514ec9_35945_512x512_fill_lanczos_center_3.png</url><title>Projects</title><link>https://adamjelley.github.io/project/</link></image><item><title>Nand2Tetris</title><link>https://adamjelley.github.io/project/nand2tetris/</link><pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate><guid>https://adamjelley.github.io/project/nand2tetris/</guid><description>&lt;p>My code for the renown &lt;a href="%28https://www.nand2tetris.org%29">Nand2Tetris&lt;/a> course, culminating in the Breakout game shown below, running on the computational stack designed and implemented in &lt;a href="https://github.com/AdamJelley/Nand2Tetris" target="_blank" rel="noopener">this repository&lt;/a>.&lt;/p>
+&lt;img src="../../uploads/BreakoutDemo.mp4" alt="Demo of Breakout game running on Hack computer.">
+&lt;p>The course goes through building a simple general purpose computer, from elementary switching gates (NAND gates) to high-level object-oriented software engineering, resulting in a hardware platform and software hierarchy capable of implementing arbitrary programs, such as Tetris (or in my case, &lt;a href="https://en.wikipedia.org/wiki/Breakout_%28video_game%29" target="_blank" rel="noopener">Breakout&lt;/a>). The aim is to provide hands-on knowledge of hardware, architecture, operating systems, programming languages, compilers, software engineering and relevant algorithms and data structures.&lt;/p>
+&lt;p>I embarked on this course during a difficult time during my PhD, thanks to a recommendation from my good friend &lt;a href="https://eloialonso.github.io" target="_blank" rel="noopener">Eloi&lt;/a>. I later chose to implement the game Breakout in part because this was the main game we used for the development of &lt;a href="https://adamjelley.github.io/publication/diamond/" target="_blank" rel="noopener">DIAMOND&lt;/a>. I envisioned one day implementing a &lt;a href="https://github.com/karpathy/micrograd" target="_blank" rel="noopener">minimal auto-differentiation package&lt;/a> and running &lt;a href="https://adamjelley.github.io/publication/diamond/" target="_blank" rel="noopener">DIAMOND&lt;/a> (or at least a &lt;a href="https://adamjelley.github.io/project/rlimplementations/" target="_blank" rel="noopener">DQN agent&lt;/a>) on the Hack computer, but I suspect I might struggle to find the time for that now&amp;hellip; The full course took me over a year to complete in the background of my PhD work, but thankfully helped me to find the fun in computers again, so was well-worth the time and is highly recommended.&lt;/p>
+&lt;p>Check out the Nand2Tetris &lt;a href="https://www.nand2tetris.org" target="_blank" rel="noopener">website&lt;/a> and accompanying textbook, &lt;a href="https://www.amazon.co.uk/Elements-Computing-Systems-second-Principles-ebook/dp/B084V7R8PT/ref=tmm_kin_swatch_0" target="_blank" rel="noopener">&lt;em>The Elements of Computing Systems: Building a Modern Computer from First Principles&lt;/em>&lt;/a> for more information.&lt;/p>
+&lt;h2 id="course-syllabus">Course Syllabus:&lt;/h2>
+&lt;h3 id="part-i-hardware">Part I: Hardware&lt;/h3>
 &lt;ul>
-&lt;li>&lt;a href="https://github.com/AdamJelley/Actor-Critic-Agents" target="_blank" rel="noopener">Actor-crtic&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Project 1: Boolean Logic&lt;/strong>
+&lt;ul>
+&lt;li>Designing a set of 15 elementary logic gates from primative NAND gates using a simple Hardware Description Language (HDL).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Project 2: Boolean Arithmetic&lt;/strong>
+&lt;ul>
+&lt;li>Combining the elementary logic gates designed in Project 1 into more complex chips, namely a simple Arithmetic Logic Unit (ALU), capable of performing arithmetic and logical operations. The ALU is later used as a core component of the computer&amp;rsquo;s Central Processing Unit (CPU).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Project 3: Sequential Logic&lt;/strong>
+&lt;ul>
+&lt;li>Building a hierarchy of memory chips, from elementary flip-flop gates into n-bit registers and eventually Random Access Memory (RAM) chips. Unlike processing chips which use combinatorial Boolean logic, these chips use clock-based sequential logic.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Project 4: Machine Language&lt;/strong>
+&lt;ul>
+&lt;li>Writing low-level assembly programs in the Hack machine language, capable of multiplication and memory operations to develop an understanding of what will be required from the Hack computer.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Project 5: Computer Architecture&lt;/strong>
+&lt;ul>
+&lt;li>Integrating the earlier ALU and memory chips into a general-purpose 16-bit computer called Hack. The ALU is combined with A, D and M registers and a program counter (PC) to form the Central Processing Unit (CPU), which is then combined with RAM (Random Access Memory) and ROM (Read-Only Memory) to form the Hack computer.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Project 6: Assembler&lt;/strong>
+&lt;ul>
+&lt;li>Building the Assembler, which translates the symbolic machine language (assembly code) into binary code (a time-series of 16-bit input) which can be run directly on the Hack computer.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="part-ii-software">Part II: Software&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Project 7: VM I: Stack Arithmetic&lt;/strong>
+&lt;ul>
+&lt;li>Building the first part of a Virtual Machine Translator to translate virtual machine language into assembly code. This first part implements the translation of stack arithmetic and memory access operations.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Project 8: VM II: Program Control&lt;/strong>
+&lt;ul>
+&lt;li>Completion of the Virtual Machine Translator by including flow control and function call and return operations. This enables the use of a higher-level Virtual Machine (VM) abstraction based on a stack, similar to modern software implementations that use two-tier compilers, such as Java.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Project 9: High-Level Language&lt;/strong>
+&lt;ul>
+&lt;li>Writing a program in Jack, a simple high-level object-oriented language with a Java-like syntax. I implemented the game &lt;a href="https://en.wikipedia.org/wiki/Breakout_%28video_game%29" target="_blank" rel="noopener">Breakout&lt;/a>. To run a Jack program on the Hack computer using the previous VM translator, it must be compiled into VM code. This is developed in the following projects.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Project 10: Compiler I: Syntax Analysis&lt;/strong>
+&lt;ul>
+&lt;li>Building a syntax analyser to parse arbitray Jack programs. This uses a recursive algorithm to output an XML file that captures the semantic structure of the program.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Project 11: Compiler II: Code Generation&lt;/strong>
+&lt;ul>
+&lt;li>Completing the Jack compiler to compile arbitrary Jack code into VM code that runs on the virtual machine developed in Projects 7 and 8.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Project 12: Operating System&lt;/strong>
+&lt;ul>
+&lt;li>Implementation of the final component required to run Jack programs on the Hack computer; the Operating System. This comprises of eight classes written in Jack:
+&lt;ul>
+&lt;li>Sys: Handles system booting and program executation utilities.&lt;/li>
+&lt;li>Memory: Handles memory allocation and deallocation operations.&lt;/li>
+&lt;li>Math: Provides basic mathematical operations in an efficient manner.&lt;/li>
+&lt;li>Screen: Handles graphical screen output.&lt;/li>
+&lt;li>Output: Handles text-based output.&lt;/li>
+&lt;li>Keyboard: Handles user input from the keyboard.&lt;/li>
+&lt;li>String: Implements a String type and basic string processing operations.&lt;/li>
+&lt;li>Array: Implements the Array type and enables construction and disposal of arrays.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>Reinforcement Learning to Play Doom</title><link>https://adamjelley.github.io/project/doomrl/</link><pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate><guid>https://adamjelley.github.io/project/doomrl/</guid><description>&lt;img src="../../uploads/PPO_VizdoomCorridor-v0_ShootingReward_1eps.gif" alt="PPO agent on Vizdoom Corridor.">
+&lt;p>A project to apply reinforcement learning to play Doom. Uses &lt;a href="https://stable-baselines3.readthedocs.io/en/master/index.html" target="_blank" rel="noopener">StableBaselines3&lt;/a> implementations of RL algorithms on &lt;a href="http://vizdoom.cs.put.edu.pl/" target="_blank" rel="noopener">ViZDoom&lt;/a> using the &lt;a href="https://github.com/shakenes/vizdoomgym" target="_blank" rel="noopener">ViZDoomGym&lt;/a> wrapper. Key takeaway: reward shaping is key!&lt;/p></description></item><item><title>Advent Of Code</title><link>https://adamjelley.github.io/project/adventofcode/</link><pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate><guid>https://adamjelley.github.io/project/adventofcode/</guid><description>&lt;p>My solutions to &lt;a href="https://adventofcode.com" target="_blank" rel="noopener">Advent Of Code&lt;/a> 2021, earning the full 50*. Time well-spent in the first year of my PhD while not knowing what to work on!&lt;/p></description></item><item><title>Reinforcement Learning Reimplementations</title><link>https://adamjelley.github.io/project/rlimplementations/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://adamjelley.github.io/project/rlimplementations/</guid><description>&lt;p>Reimplementations of various reinforcement learning algorithms:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/AdamJelley/Actor-Critic-Agents" target="_blank" rel="noopener">Actor-critic&lt;/a> (including policy gradients)&lt;/li>
 &lt;li>&lt;a href="https://github.com/AdamJelley/Deep-Q-Learning-Agents" target="_blank" rel="noopener">Value-based&lt;/a> (Q-learning)&lt;/li>
 &lt;li>&lt;a href="https://github.com/AdamJelley/Curiosity-A3C-Agent" target="_blank" rel="noopener">Unsupervised&lt;/a> (reward-free i.e. curiosity)&lt;/li>
-&lt;/ul></description></item><item><title>Automated PDF Processor</title><link>https://adamjelley.github.io/project/pdfprocessor/</link><pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate><guid>https://adamjelley.github.io/project/pdfprocessor/</guid><description>&lt;h1 id="overview">Overview&lt;/h1>
-&lt;p>This project takes PDF files as input, uses Optical Character Recognition (OCR) to extract the text for each input PDF, classifies the document into one of twenty article categories and summarises the text to an arbitrary number of sententences (by default 3 using Latent Semantic Analysis (LSA)), before composing the document title, classification, summary and original text into a text file which is emailed to the user.&lt;/p>
-&lt;h1 id="interface-usage-dashboard">Interface Usage (Dashboard)&lt;/h1>
-&lt;p>The &lt;a href="dashboard:moj9XTy">dashboard&lt;/a> shows a view of the input PDFs and output files. Documents can be uploaded by dragging and dropping onto the left hand side of the dashboard. The &lt;a href="scenario:ProcessDocument">scenario&lt;/a> to process the input PDFs can be triggered from here, and the text file contatining the classification, summary and full text will appear in the folder on the right hand side. Please see below for further information.&lt;/p>
+&lt;/ul></description></item><item><title>Football Match Prediction</title><link>https://adamjelley.github.io/project/footballprediction/</link><pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate><guid>https://adamjelley.github.io/project/footballprediction/</guid><description>&lt;p>My football match prediction webapp running live on a Sunday evening in November 2019. This is a picture of an early version, but unfortunately is the only picture I still have&amp;hellip; I later improved the performance and UI and got to around 70% accuracy over win/lose/draw predictions, but eventually came up against the hard truth that football games have a substantial component of randomness that is impossible to predict before the match begins, no matter how much you improve your algorithm and data!&lt;/p>
+&lt;h1 id="project-overview">Project Overview&lt;/h1>
+&lt;p>The aim of this project was to predict the outcome of football matches. The final version provided up to date predictions of all Premier League and Championship games, but is no longer running due to the cost of the API data and hosting the webapp.&lt;/p>
 &lt;h1 id="data">Data&lt;/h1>
-&lt;p>Arbitrary PDF files can be placed into the &lt;a href="managed_folder:QZb3pfTL">input folder&lt;/a> for classfication and summarisation.&lt;/p>
-&lt;p>The document classification model was trained on the 20 newsgroups dataset (&lt;a href="http://qwone.com/~jason/20Newsgroups/" target="_blank" rel="noopener">documentation&lt;/a>) which is publicly available from sci-kit learn as described &lt;a href="https://scikit-learn.org/0.19/datasets/twenty_newsgroups.html#" target="_blank" rel="noopener">here&lt;/a>.&lt;/p>
-&lt;h1 id="project-components">Project Components&lt;/h1>
-&lt;h2 id="ocr-for-text-extraction">OCR for Text Extraction&lt;/h2>
-&lt;p>The PDFs are first converted to image files using pdf2image (&lt;a href="https://pypi.org/project/pdf2image/" target="_blank" rel="noopener">documentation&lt;/a>) &lt;a href="recipe:compute_HNEvJqgm">here&lt;/a>. The OCR is then performed using Google&amp;rsquo;s open-source Tesseract library (&lt;a href="https://github.com/tesseract-ocr/tesseract#tesseract-ocr" target="_blank" rel="noopener">documentation&lt;/a>) &lt;a href="recipe:compute_htEULTjD">here&lt;/a>.&lt;/p>
-&lt;h2 id="model-for-document-classification">Model for Document Classification&lt;/h2>
-&lt;p>As described above, the model was trained on the 20 newsgroups dataset available from sci-kit learn &lt;a href="https://scikit-learn.org/0.19/datasets/twenty_newsgroups.html#" target="_blank" rel="noopener">here&lt;/a>. The model uses a multiclass logistic regression classifier built on top of a tf-idf transformer and achieves an AUC of 0.995. Full details of the model are available &lt;a href="saved_model:y1EXaY1m">here&lt;/a>.&lt;/p>
-&lt;h2 id="text-summarisation">Text Summarisation&lt;/h2>
-&lt;p>The text summarisation was performed using Dataiku&amp;rsquo;s Text Summarisation &lt;a href="recipe:compute_PDF_topics">plugin&lt;/a> (&lt;a href="https://www.dataiku.com/product/plugins/text-summarization/" target="_blank" rel="noopener">documentation&lt;/a>). This plugin provides an interface for three popular text summarisation algorithms including &lt;a href="https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf" target="_blank" rel="noopener">TextRank&lt;/a>, &lt;a href="http://www.aclweb.org/anthology/N09-1041" target="_blank" rel="noopener">KL-Sum&lt;/a> and &lt;a href="http://www.kiv.zcu.cz/~jstein/publikace/isim2004.pdf" target="_blank" rel="noopener">LSA&lt;/a>. By default this project uses LSA to select 3 sentences to summarise the document, but this can be changed using the &lt;a href="recipe:compute_PDF_topics">plugin&lt;/a> UI.&lt;/p>
-&lt;h1 id="flow">Flow&lt;/h1>
-&lt;p>The top part of the flow converts the &lt;a href="recipe:compute_HNEvJqgm">PDFs to images&lt;/a>, &lt;a href="recipe:compute_htEULTjD">extracts the text&lt;/a> using OCR and &lt;a href="recipe:compute_PDF_topics">summarises&lt;/a> the document.&lt;/p>
-&lt;p>The bottom part of the flow gets the &lt;a href="dataset:twenty_newsgroups">documents&lt;/a> and &lt;a href="dataset:target_names_prepared">labels&lt;/a>, &lt;a href="recipe:compute_twenty_newsgroups_joined">joins&lt;/a> them together to create the &lt;a href="dataset:twenty_newsgroups_joined">training data&lt;/a>, trains the &lt;a href="saved_model:y1EXaY1m">model&lt;/a> on this training data and uses the model to &lt;a href="dataset:PDF_text_labelled">classify&lt;/a> the document.&lt;/p>
-&lt;p>The document summary is then &lt;a href="recipe:compute_PDF_topics_category">joined&lt;/a> to the document classification, which are cleaned up and written to &lt;a href="managed_folder:htEULTjD">output files&lt;/a> for each document.&lt;/p>
-&lt;h1 id="running-the-flow--automation">Running the Flow / Automation&lt;/h1>
-&lt;p>The flow can be run using the scenario &lt;a href="scenario:ProcessDocument">ProcessDocument&lt;/a>. This scenario will extract the text from all input PDFs, classify and summarise the document, create the output file and email this to the user. By default, text extraction will not be re-performed if the PDF has been processed previously (so previously processed PDFs will not be cleared even if they are removed from the input), but this behaviour can be modified by changing the project variable &amp;lsquo;reprocess_PDFs&amp;rsquo; to &amp;lsquo;True&amp;rsquo; in the first step of the scenario.&lt;/p>
-&lt;p>Alternatively, when a new PDF is dropped into the &lt;a href="managed_folder:QZb3pfTL">input folder&lt;/a>, DSS will automatically recognise that the input has changed, run the flow and email the user the end result. DSS is currently set to check the input folder every 2 minutes and will run the flow it detects that the input has changed and there have been no further changes made over the following minute.&lt;/p></description></item><item><title>Football Match Prediction</title><link>https://adamjelley.github.io/project/footballprediction/</link><pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate><guid>https://adamjelley.github.io/project/footballprediction/</guid><description>&lt;h1 id="overview">Overview&lt;/h1>
-&lt;p>The aim of this project was to predict the outcome of football matches. Currently, the project is predicting all Premier League and Championship games.&lt;/p>
-&lt;h1 id="data">Data&lt;/h1>
-&lt;p>The data all comes from &lt;a href="https://www.api-football.com/" target="_blank" rel="noopener">api-football&lt;/a>, for which the various data feeds are well documented &lt;a href="https://www.api-football.com/documentation#documentation-v239-api-architecture" target="_blank" rel="noopener">here&lt;/a>.&lt;/p>
+&lt;p>The data comes from &lt;a href="https://www.api-football.com/" target="_blank" rel="noopener">api-football&lt;/a>, for which the various data feeds are well documented &lt;a href="https://www.api-football.com/documentation#documentation-v239-api-architecture" target="_blank" rel="noopener">here&lt;/a>.&lt;/p>
 &lt;p>In the current version, we used the match fixtures API to get historical match results for the Premier League and Championship for the last 10 years, as well as to get the upcoming fixtures for the next week.&lt;/p>
 &lt;h1 id="flow">Flow&lt;/h1>
 &lt;p>The first python recipe (&lt;a href="recipe:compute_Leagues">compute_Leagues&lt;/a>) is used to get the available leagues and their corresponding IDs from the API. This data is cleaned and filtered down to the leagues of interest to give the &lt;a href="dataset:Leagues_prepared_filtered">Leagues_prepared_filtered&lt;/a> dataset.&lt;/p>
