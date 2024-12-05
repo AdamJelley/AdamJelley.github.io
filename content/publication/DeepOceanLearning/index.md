@@ -37,7 +37,7 @@ publication_short: GRL
 abstract: Turbulent mixing at the sub-meter scale is an essential component of the ocean's meridional overturning circulation and its associated global redistribution of heat, carbon, nutrients, pollutants, and other tracers. Whereas direct turbulence observations in the ocean interior are limited to a modest collection of field programs, basic information such as temperature, salinity, and depth is available globally. Here, we show that supervised machine learning algorithms can be trained on the existing turbulence data to develop skillful predictions of the key properties of turbulence from T, S, Z, and topographic data. This constitutes a promising first step toward a hybrid physics-artificial intelligence approach to parameterization of turbulent mixing in ocean and climate models.
 
 # Summary. An optional shortened abstract.
-summary: We show machine learning can be successfully employed to infer turbulent mixing from quantities measured routinely by global observational programs.
+summary: We show machine learning can be successfully employed to infer turbulent mixing from quantities measured routinely by global observational programs. Published in **GRL 2022**.
 
 tags: []
 

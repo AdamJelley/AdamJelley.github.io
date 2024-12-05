@@ -19,7 +19,7 @@ links:
 url_code: "https://github.com/AdamJelley/Actor-Critic-Agents"
 url_pdf: ""
 url_slides: ""
-url_video: "https://github.com/AdamJelley/Deep-Q-Learning-Agents/blob/master/GeneralDQN/videos/openaigym.video.0.13275.video000000.mp4"
+url_video: "/uploads/PongDQNAgent.mp4"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -30,6 +30,6 @@ slides: ""
 ---
 
 Reimplementations of various reinforcement learning algorithms:
-- [Actor-crtic](https://github.com/AdamJelley/Actor-Critic-Agents)
+- [Actor-critic](https://github.com/AdamJelley/Actor-Critic-Agents) (including policy gradients)
 - [Value-based](https://github.com/AdamJelley/Deep-Q-Learning-Agents) (Q-learning)
 - [Unsupervised](https://github.com/AdamJelley/Curiosity-A3C-Agent) (reward-free i.e. curiosity)

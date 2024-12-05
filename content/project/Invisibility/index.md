@@ -1,6 +1,6 @@
 ---
 title: Invisibility and Maxwell's Equations
-summary: Part III Theoretical Physics Master's dissertation on applying differential geometry to Maxwell's Equations to determine the electomagnetic properties required for invisibility cloaking.
+summary: My Master's dissertation (Part III Theoretical Physics) on applying differential geometry to Maxwell's Equations to determine the electomagnetic properties required for invisibility cloaking.
 tags:
 date: "2016-05-03"
 

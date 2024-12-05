@@ -35,7 +35,7 @@ publication_short: RLBRew Workshop at RLC 2024
 abstract: Training agents to behave as desired in complex 3D environments from high-dimensional sensory information is challenging. Imitation learning from diverse human behavior provides a scalable approach for training an agent with a sensible behavioral prior, but such an agent may not perform the specific behaviors of interest when deployed. To address this issue, we draw an analogy between the undesirable behaviors of imitation learning agents and the unhelpful responses of unaligned large language models (LLMs). We then investigate how the procedure for aligning LLMs can be applied to aligning agents in a 3D environment from pixels. For our analysis, we utilize an academically illustrative part of a modern console game in which the human behavior distribution is multi-modal, but we want our agent to imitate a single mode of this behavior. We demonstrate that we can align our agent to consistently perform the desired mode, while providing insights and advice for successfully applying this approach to training agents. Project webpage at https://adamjelley.github.io/aligning-agents-like-llms/.
 
 # Summary. An optional shortened abstract.
-summary: An investigation into training agents like Large Language Models (LLMs) by unsupervised pre-training, supervised fine-tuning, and finally reinforcement learning from human feedback (RLHF).
+summary: An investigation into training agents like Large Language Models (LLMs) by unsupervised pre-training, supervised fine-tuning, and finally reinforcement learning from human feedback (RLHF). Presented at **RLBRew Workshop at RLC 2024**.
 
 tags: []
 

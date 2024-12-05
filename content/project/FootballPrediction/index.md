@@ -8,7 +8,7 @@ date: "2020-04-01"
 external_link: ""
 
 image:
-  caption: Photo from Wikipedia
+  caption: My football match prediction webapp running live on a Sunday evening in November 2019
   focal_point: Smart
 
 links:
@@ -29,11 +29,13 @@ url_video: ""
 slides: ""
 ---
 
-# Overview
-The aim of this project was to predict the outcome of football matches. Currently, the project is predicting all Premier League and Championship games.
+My football match prediction webapp running live on a Sunday evening in November 2019. This is a picture of an early version, but unfortunately is the only picture I still have... I later improved the performance and UI and got to around 70% accuracy over win/lose/draw predictions, but eventually came up against the hard truth that football games have a substantial component of randomness that is impossible to predict before the match begins, no matter how much you improve your algorithm and data!
+
+# Project Overview
+The aim of this project was to predict the outcome of football matches. The final version provided up to date predictions of all Premier League and Championship games, but is no longer running due to the cost of the API data and hosting the webapp.
 
 # Data
-The data all comes from [api-football](https://www.api-football.com/), for which the various data feeds are well documented [here](https://www.api-football.com/documentation#documentation-v239-api-architecture).
+The data comes from [api-football](https://www.api-football.com/), for which the various data feeds are well documented [here](https://www.api-football.com/documentation#documentation-v239-api-architecture).
 
 In the current version, we used the match fixtures API to get historical match results for the Premier League and Championship for the last 10 years, as well as to get the upcoming fixtures for the next week.
 
