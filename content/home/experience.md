@@ -67,7 +67,7 @@ experience:
     date_end: '2019-03-01'
     description: |2-
         Initial research training at Centre for Doctoral Training in Data Intensive Science.
-  - title: Business Consultant
+  - title: Consultant
     company: Applied Predictive Technologies (now aquired by Mastercard)
     company_url: 'https://www.mastercard.com.au/en-au/about-mastercard/innovations/apt.html'
     company_logo: APTlogo
