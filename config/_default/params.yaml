@@ -16,22 +16,22 @@ site_type: Person
 local_business_type: ''
 org_name: ''
 description: ''
-twitter: ''
+twitter: 'https://x.com/AdamJelley2'
 
 # Contact (edit or remove options as required)
 
-email: adam.jelley@ed.ac.uk
+email: adam@generalintuition.com
 #phone: +44131 651 5661
-address:
-  street: School of Informatics
-  city: Edinburgh
-  #region: CA
-  postcode: 'EH8 9AB'
-  country: Scotland
-  country_code: UK
-coordinates:
-  latitude: '55.9448'
-  longitude: '-3.1867'
+# address:
+#   street: School of Informatics
+#   city: Edinburgh
+#   #region: CA
+#   postcode: 'EH8 9AB'
+#   country: Scotland
+#   country_code: UK
+# coordinates:
+#   latitude: '55.9448'
+#   longitude: '-3.1867'
 #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 # office_hours:
 #   - 'Monday 10:00 to 13:00'
@@ -45,7 +45,11 @@ contact_links:
   - icon: github
     icon_pack: fab
     name: GitHub
-    link: 'GitHub'
+    link: 'https://github.com/AdamJelley'
+  - icon: twitter
+    icon_pack: fab
+    name: X
+    link: 'https://x.com/AdamJelley2'
   # - icon: keybase
   #   icon_pack: fab
   #   name: Chat on Keybase

@@ -22,15 +22,25 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research / Co-Founder
+    company: General Intuition
+    company_url: 'https://www.generalintuition.com'
+    company_logo: GILogo
+    date_start: '2021-04-01'
+    date_end:
+    description: |2-
+        Research into foundation models that require deep spatial and temporal reasoning.
   - title: PhD Candidate
     company: University of Edinburgh
     company_url: 'https://www.ed.ac.uk/informatics'
     company_logo: EdinburghLogo
     location: Edinburgh
     date_start: '2021-05-01'
-    date_end:
+    date_end: '2025-07-01'
     description: |2-
-        PhD Candidate in Machine Learning, with a focus on Deep Reinforcement Learning.
+        PhD Candidate in Efficient Reinforcement Learning and World Models.
+
+        Thesis: Generating Environments and Pre-Training Agents for Efficient Reinforcement Learning
   - title: Research Scientist Intern
     company: Microsoft Research Cambridge
     company_url: 'https://www.microsoft.com/en-us/research/group/game-intelligence/overview/'

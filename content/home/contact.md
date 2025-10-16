@@ -25,18 +25,18 @@ content:
   #     # Enable CAPTCHA challenge to reduce spam?
   #     captcha: false
 
-  email: adam.jelley@ed.ac.uk
+  email: adam@generalintuition.com
   #phone: +44131 651 5661
-  address:
-    street: School of Informatics
-    city: Edinburgh
-    #region: CA
-    postcode: 'EH8 9AB'
-    country: Scotland
-    country_code: UK
-  coordinates:
-    latitude: '55.9448'
-    longitude: '-3.1867'
+  # address:
+  #   street: School of Informatics
+  #   city: Edinburgh
+  #   #region: CA
+  #   postcode: 'EH8 9AB'
+  #   country: Scotland
+  #   country_code: UK
+  # coordinates:
+  #   latitude: '55.9448'
+  #   longitude: '-3.1867'
   #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   # office_hours:
   #   - 'Monday 10:00 to 13:00'
@@ -50,7 +50,11 @@ content:
     - icon: github
       icon_pack: fab
       name: GitHub
-      link: 'GitHub'
+      link: 'https://github.com/AdamJelley'
+    - icon: twitter
+      icon_pack: fab
+      name: X
+      link: 'https://x.com/AdamJelley2'
   # - icon: keybase
   #   icon_pack: fab
   #   name: Chat on Keybase

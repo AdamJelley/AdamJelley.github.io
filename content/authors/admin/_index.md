@@ -6,31 +6,31 @@ title: Adam Jelley
 superuser: true
 
 # Role/position/tagline
-role: PhD Student in Deep Reinforcement Learning
+role: Research / Co-Founder
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Edinburgh
-  url: https://www.ed.ac.uk/informatics
+- name: General Intuition
+  url: https://www.generalintuition.com
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD Student in efficient reinforcement learning.
+bio: Research / Co-Founder at [General Intuition](https://www.generalintuition.com)
 
 # Interests to show in About widget
 interests:
 - Reinforcement Learning
+- Imitation Learning
 - World Models
 - RL from Human Feedback
 - Self-Supervised Learning
-- Deep Learning Generalisation
 - AI for Science
 
 # Education to show in About widget
 education:
   courses:
-  - course: Currently PhD Candidate in Sample Efficient Deep Reinforcement Learning
+  - course: PhD in Generating Environments and Pre-Training Agents for Efficient Reinforcement Learning
     institution: University of Edinburgh
-    year: 2025 (Expected)
+    year: 2025
   - course: MSci in Theoretical Physics
     institution: University of Cambridge
     year: 2016
@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:adam.jelley@ed.ac.uk'
+  link: 'mailto:adam@generalintuition.com'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -55,6 +55,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/AdamJelley
+- icon: twitter
+  icon_pack: fab
+  link: https://x.com/AdamJelley2
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/adamjelley/
@@ -72,9 +75,10 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+I'm a Research Scientist / Co-Founder at [General Intuition](https://www.generalintuition.com). We work on foundation models that require deep spatial and temporal reasoning. Our models are built on the billions of hours of gameplay recorded with [Medal](https://medal.tv), with applications to the video game industry and beyond.
 
-I’m a PhD student in the [Bayesian and Neural Systems group](https://www.bayeswatch.com/) at the University of Edinburgh, supervised by [Professor Amos Storkey](https://homepages.inf.ed.ac.uk/amos/) in the [School of Informatics](https://www.ed.ac.uk/informatics) and externally by [Sam Devlin](https://www.microsoft.com/en-us/research/people/sadevlin/) at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/).
+Before starting General Intuition, I was a PhD student working on efficient reinforcement learning approaches and world models in the [Bayesian and Neural Systems group](https://www.bayeswatch.com/) at the University of Edinburgh, supervised by [Professor Amos Storkey](https://homepages.inf.ed.ac.uk/amos/) in the [School of Informatics](https://informatics.ed.ac.uk) as well as [Sam Devlin](https://www.linkedin.com/in/sam-devlin-b2381083/) from the [Game Intelligence Team](https://www.microsoft.com/en-us/research/group/game-intelligence/) at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/). I was supported by a [Microsoft Research Scholarship](https://www.microsoft.com/en-us/research/academic-program/phd-scholarship-europe-middle-east-africa/).
 
-My research is broadly focused on developing more sample efficient reinforcement learning approaches, via the use of world models, human feedback, offline data and self-supervised signals. I'm generally interested in improving the scientific understanding of deep reinforcement learning, bridging the gap between academia and industry, and the application of reinforcement learning to production software and real-world problems. I'm supported by a [Microsoft Research Scholarship](https://www.microsoft.com/en-us/research/academic-program/phd-scholarship-europe-middle-east-africa/).
+<!-- My research is broadly focused on developing more sample efficient reinforcement learning approaches, via the use of world models, human feedback, offline data and self-supervised signals. I'm generally interested in improving the scientific understanding of deep reinforcement learning, bridging the gap between academia and industry, and the application of reinforcement learning to production software and real-world problems. I'm supported by a [Microsoft Research Scholarship](https://www.microsoft.com/en-us/research/academic-program/phd-scholarship-europe-middle-east-africa/). -->
 
  <!-- {{< icon name="download" pack="fas" >}} See my full CV {{< staticref "media/demo_resume.pdf" "newtab" >}}here{{< /staticref >}}. -->
