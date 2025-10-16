@@ -26,7 +26,7 @@ experience:
     company: General Intuition
     company_url: 'https://www.generalintuition.com'
     company_logo: GILogo
-    date_start: '2021-04-01'
+    date_start: '2025-04-01'
     date_end:
     description: |2-
         Research into foundation models that require deep spatial and temporal reasoning.
