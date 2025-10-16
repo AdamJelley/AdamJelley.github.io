@@ -75,7 +75,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I'm a Research Scientist / Co-Founder at [General Intuition](https://www.generalintuition.com). We work on foundation models that require deep spatial and temporal reasoning. Our models are built on the billions of hours of gameplay recorded with [Medal](https://medal.tv), with applications to the video game industry and beyond.
+I'm a Member of Technical Staff / Co-Founder at [General Intuition](https://www.generalintuition.com). We work on foundation models that require deep spatial and temporal reasoning. Our models are built on the billions of hours of gameplay recorded with [Medal](https://medal.tv), with applications to the video game industry and beyond.
 
 Before starting General Intuition, I was a PhD student working on efficient reinforcement learning approaches and world models in the [Bayesian and Neural Systems group](https://www.bayeswatch.com/) at the University of Edinburgh, lucky to be supervised by [Professor Amos Storkey](https://homepages.inf.ed.ac.uk/amos/) in the [School of Informatics](https://informatics.ed.ac.uk) as well as [Sam Devlin](https://www.linkedin.com/in/sam-devlin-b2381083/) from the [Game Intelligence Team](https://www.microsoft.com/en-us/research/group/game-intelligence/) at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/). I was supported by a [Microsoft Research Scholarship](https://www.microsoft.com/en-us/research/academic-program/phd-scholarship-europe-middle-east-africa/).
 
